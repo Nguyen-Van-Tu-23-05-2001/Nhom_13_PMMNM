@@ -1,4 +1,5 @@
-# Nhom_16_PMMNM
+# Nhom_13
+_PMMNM
 -Đề tài: Tìm hiểu và sử dụng Framework Lavarel xây dựng website bán Laptop
 -Thành viên nhóm: 
   + Nguyễn Văn Tú - 2019604832
